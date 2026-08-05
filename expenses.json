@@ -1,0 +1,17 @@
+[
+    {
+        "amount": 500.0,
+        "category": "Food",
+        "description": "this is my breakfast"
+    },
+    {
+        "amount": 1000.0,
+        "category": "Travel",
+        "description": "this is my journey"
+    },
+    {
+        "amount": 200.0,
+        "category": "Enjoy",
+        "description": "this is enjoy"
+    }
+]
